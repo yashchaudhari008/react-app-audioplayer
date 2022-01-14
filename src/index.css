@@ -1,0 +1,14 @@
+:root {
+	--primaryColor: rgb(185, 189, 194);
+	--secondaryColor: rgb(107, 142, 214);
+	--borderRadius: 0.5rem;
+}
+body {
+	height: 100vh;
+	margin: 0;
+	background-color: rgb(32, 36, 32);
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

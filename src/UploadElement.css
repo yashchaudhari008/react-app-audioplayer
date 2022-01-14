@@ -1,0 +1,9 @@
+.uploadEle * {
+	margin: 0rem;
+}
+.uploadEle input[type="file"] {
+	padding: 0.2rem;
+	padding-left: 2rem;
+	margin-top: 0.5rem;
+	cursor: pointer;
+}

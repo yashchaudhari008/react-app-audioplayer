@@ -1,0 +1,17 @@
+.audioEle {
+	margin-bottom: 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 0.1rem;
+	align-items: flex-start;
+}
+.audioEle audio {
+	margin: 0.1rem;
+	margin-bottom: 0.5rem;
+}
+.truncate {
+	width: 300px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
